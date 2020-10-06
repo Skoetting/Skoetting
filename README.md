@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a IT - System Engineer from Germany, mainly focused on Windows Infrastructure and Elasticsearch.
-passionate about automation (mainly Powershell)
+I am passionate about automation (mainly Powershell)
 
 ![Simons's github stats](https://github-readme-stats.vercel.app/api?username=Skoetting&show_icons=true&theme=radical)
 <!--
