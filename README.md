@@ -1,3 +1,2 @@
 ### Hi there 👋
-
-![skoetting.net](https://skoetting.net)
+[skoetting.net](https://skoetting.net)
